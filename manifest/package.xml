@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>FiberService</members>
+        <members>FiberServiceTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Release_Config__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Account.Installation_Type__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account_Set_Rating</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Fiber_Sales</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>67.0</version>
+</Package>
