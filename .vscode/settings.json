@@ -4,5 +4,8 @@
     "**/bower_components": true,
     "**/.sf": true,
     "**/.sfdx": true
-  }
+  },
+  "xml.preferences.showSchemaDocumentationType": "none",
+  "vscode-pull-requests-azure-devops.collection": "https://github.com/mousuma/salesforce-CI-CD.git",
+  "vscode-pull-requests-azure-devops.access-token": "https://github.com/mousuma/salesforce-CI-CD.git"
 }
